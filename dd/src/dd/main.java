@@ -3,7 +3,8 @@ package dd;
 public class main {
 
 	public static void main(String[] args) {
-	System.out.println("zzㅋ1");
+	System.out.println("z");
+	System.out.println("ㅎㅇ");
 	}
 
 }
